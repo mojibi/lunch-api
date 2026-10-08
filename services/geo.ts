@@ -17,3 +17,7 @@ export function parseNearby(q: any, defaultRadius: number) {
   return { lat, lng, radius };
 }
 
+// เทสสสสสสสสสสส
+
+
+// เทสสุดๆ
